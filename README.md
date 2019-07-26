@@ -16,3 +16,7 @@ Lo script consta di 3 step:
 * riproiezione tabelle
 
 
+Lo script deve essere accoppiato ad un file credenziali.py in cui sono definite 2 variabili:
+
+* nome_db : nome del DB
+* conn : parametri di connessione
