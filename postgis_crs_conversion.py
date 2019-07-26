@@ -1,4 +1,4 @@
-# Copyleft Roberto Marzocchi - Gter srl Innovazione in Geomatica Gnss e Gis
+# 2019 Copyleft Roberto Marzocchi - Gter srl Innovazione in Geomatica Gnss e Gis
 import os,sys,shutil,re,glob, getopt
 import datetime
 #import ogr
